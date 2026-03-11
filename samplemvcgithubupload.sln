@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "samplemvcgithubupload", "samplemvcgithubupload\samplemvcgithubupload.csproj", "{023799EC-4690-4B83-ACB3-932AB30BF21A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{023799EC-4690-4B83-ACB3-932AB30BF21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023799EC-4690-4B83-ACB3-932AB30BF21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023799EC-4690-4B83-ACB3-932AB30BF21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023799EC-4690-4B83-ACB3-932AB30BF21A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BB09DAC-5D1C-4F5D-A80E-A804BD842775}
+	EndGlobalSection
+EndGlobal
